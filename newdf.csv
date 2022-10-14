@@ -1,0 +1,131 @@
+,parent_0,parent_1,parent_2,parent_3,parent_4
+0,One Brooklyn Health,Floor 04,East Wing,Room W409,Bathroom
+1,One Brooklyn Health,Floor 04,East Wing,Room E405,~
+2,One Brooklyn Health,Floor 04,East Wing,Room E405,Bedroom
+3,One Brooklyn Health,Floor 04,East Wing,Room E405,Shower
+4,One Brooklyn Health,Floor 04,East Wing,Room E405,Toilet
+5,One Brooklyn Health,Cellar,~,~,~
+6,One Brooklyn Health,Subcellar,Chiller Room,~,~
+7,One Brooklyn Health,Subcellar,Storage,~,~
+8,One Brooklyn Health,Subcellar,Stair 01,~,~
+9,One Brooklyn Health,Subcellar,Water Tank Room,~,~
+10,One Brooklyn Health,Subcellar,Subcellar Room 01,~,~
+11,One Brooklyn Health,Subcellar,Stair 02,~,~
+12,One Brooklyn Health,Subcellar,Subcellar Room 02,~,~
+13,One Brooklyn Health,Cellar,Boiler Room,~,~
+14,One Brooklyn Health,Cellar,Boiler Room,Boiler Room Lower,~
+15,One Brooklyn Health,Cellar,Boiler Room,Storage,~
+16,One Brooklyn Health,Cellar,Boiler Room,Stair 01,~
+17,One Brooklyn Health,Cellar,Boiler Room,Stair 02,~
+18,One Brooklyn Health,Cellar,Boiler Room,Stair 03,~
+19,One Brooklyn Health,Cellar,Boiler Room,Boiler Room Upper,~
+20,One Brooklyn Health,Cellar,Cellar Room 01,~,~
+21,One Brooklyn Health,Cellar,Cellar Room 06,~,~
+22,One Brooklyn Health,Floor 01,Roof at Chiller Room,~,~
+23,One Brooklyn Health,Floor 02,Roof,~,~
+24,One Brooklyn Health,Floor 04,East Wing,~,~
+25,One Brooklyn Health,Floor 04,East Wing,Corridor 01,~
+26,One Brooklyn Health,Floor 04,East Wing,Corridor 02,~
+27,One Brooklyn Health,Floor 04,East Wing,Room E401,~
+28,One Brooklyn Health,Floor 04,East Wing,Room E401,Bedroom
+29,One Brooklyn Health,Floor 04,East Wing,Room E401,Toilet
+30,One Brooklyn Health,Floor 04,East Wing,Room E403,~
+31,One Brooklyn Health,Floor 04,East Wing,Room E403,Bedroom
+32,One Brooklyn Health,Floor 04,East Wing,Room E403,Shower
+33,One Brooklyn Health,Floor 04,East Wing,Room E403,Toilet
+34,One Brooklyn Health,Floor 04,East Wing,Room E407,~
+35,One Brooklyn Health,Floor 04,East Wing,Room E407,Bedroom
+36,One Brooklyn Health,Floor 04,East Wing,Room E407,Bathroom
+37,One Brooklyn Health,Floor 04,East Wing,Room W411,~
+38,One Brooklyn Health,Floor 04,East Wing,Room W411,Bedroom
+39,One Brooklyn Health,Floor 04,East Wing,Room W411,Bathroom
+40,One Brooklyn Health,Floor 04,East Wing,Room W415,~
+41,One Brooklyn Health,Floor 04,East Wing,Room W415,Bedroom
+42,One Brooklyn Health,Floor 04,East Wing,Room W415,Bathroom
+43,One Brooklyn Health,Floor 04,East Wing,Room W419/E453,~
+44,One Brooklyn Health,Floor 04,East Wing,Room W419/E453,Bedroom W419
+45,One Brooklyn Health,Floor 04,East Wing,Room W419/E453,Bathroom
+46,One Brooklyn Health,Floor 04,East Wing,Room W419/E453,Bedroom E453
+47,One Brooklyn Health,Floor 04,East Wing,Nurse Manager E452,~
+48,One Brooklyn Health,Floor 04,East Wing,Nurse Manager E452,Nurse Manager
+49,One Brooklyn Health,Floor 04,East Wing,Nurse Manager E452,Staff Toilet
+50,One Brooklyn Health,Floor 04,East Wing,Utility,~
+51,One Brooklyn Health,Floor 04,East Wing,Utility,Clean Utility & Equipment Storage
+52,One Brooklyn Health,Floor 04,East Wing,Utility,Soiled Utility
+53,One Brooklyn Health,Floor 04,East Wing,Room W417,~
+54,One Brooklyn Health,Floor 04,East Wing,Room W417,Bedroom
+55,One Brooklyn Health,Floor 04,East Wing,Room W417,Bathroom
+56,One Brooklyn Health,Floor 04,East Wing,Room W413,~
+57,One Brooklyn Health,Floor 04,East Wing,Room W413,Bedroom
+58,One Brooklyn Health,Floor 04,East Wing,Room W413,Bathroom
+59,One Brooklyn Health,Floor 04,East Wing,Room W409,~
+60,One Brooklyn Health,Floor 04,East Wing,Room W409,Bedroom
+61,One Brooklyn Health,Floor 01,~,~,~
+62,One Brooklyn Health,Floor 02,~,~,~
+63,One Brooklyn Health,Floor 04,~,~,~
+64,One Brooklyn Health,~,~,~,~
+65,One Brooklyn Health,Floor 04,East Wing,Nurse Station 453,~
+66,One Brooklyn Health,Floor 04,East Wing,Nurse Station 453,Nurse Station
+67,One Brooklyn Health,Floor 04,East Wing,Nurse Station 453,Meds
+68,One Brooklyn Health,Floor 04,East Wing,Electrical N408,~
+69,One Brooklyn Health,Floor 04,East Wing,Conference N406,~
+70,One Brooklyn Health,Floor 04,East Wing,Pantry N405,~
+71,One Brooklyn Health,Floor 04,East Wing,Staff Toilet W407,~
+72,One Brooklyn Health,Roof,~,~,~
+73,One Brooklyn Health,Roof,East Wing,~,~
+74,One Brooklyn Health,Roof,East Wing,Stair,~
+75,One Brooklyn Health,Roof,East Wing,Storage,~
+76,One Brooklyn Health,Roof,East Wing,Roof EW,~
+77,One Brooklyn Health,Roof,North,~,~
+78,One Brooklyn Health,Roof,North,Roof Room,~
+79,One Brooklyn Health,Roof,North,Roof N,~
+80,One Brooklyn Health,Roof,West Wing,~,~
+81,One Brooklyn Health,Roof,West Wing,Stair,~
+82,One Brooklyn Health,Roof,West Wing,Roof WW,~
+83,One Brooklyn Health,Risers,Mechanical Pipework Riser,~,~
+84,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 01,~
+85,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 01,Subcellar
+86,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 02,~
+87,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 02,Cellar
+88,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 03,~
+89,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 03,Cellar
+90,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 03,Floor 01
+91,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW Riser 03,Floor 02
+92,One Brooklyn Health,Risers,Mechanical Pipework Riser,LP Riser,~
+93,One Brooklyn Health,Risers,Mechanical Pipework Riser,LP Riser,Cellar
+94,One Brooklyn Health,Risers,Mechanical Pipework Riser,LP Riser,Floor 01
+95,One Brooklyn Health,Risers,Mechanical Pipework Riser,LP Riser,Floor 02
+96,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,~
+97,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,Floor 02
+98,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,Floor 03
+99,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,Floor 04
+100,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,Floor 05
+101,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,Floor 06
+102,One Brooklyn Health,Risers,Mechanical Pipework Riser,CHW External Riser,Floor 07
+103,One Brooklyn Health,Risers,Mechanical Ductwork Riser,~,~
+104,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 01,~
+105,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 01,Floor 02
+106,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 01,Floor 03
+107,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 01,Floor 04
+108,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 01,Floor 05
+109,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 01,Floor 06
+110,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 02,~
+111,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 02,Floor 02
+112,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 02,Floor 03
+113,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 02,Floor 04
+114,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 02,Floor 05
+115,One Brooklyn Health,Risers,Mechanical Ductwork Riser,S/A Riser 02,Floor 06
+116,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 01,~
+117,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 01,Floor 02
+118,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 01,Floor 03
+119,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 01,Floor 04
+120,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 01,Floor 05
+121,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 01,Floor 06
+122,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 02,~
+123,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 02,Floor 02
+124,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 02,Floor 03
+125,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 02,Floor 04
+126,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 02,Floor 05
+127,One Brooklyn Health,Risers,Mechanical Ductwork Riser,R/A Riser 02,Floor 06
+128,One Brooklyn Health,Risers,~,~,~
+129,One Brooklyn Health,Subcellar,~,~,~
